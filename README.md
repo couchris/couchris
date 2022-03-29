@@ -4,7 +4,7 @@
 ✨ Currently Learning React, Node.JS, Express   
 **BIO**  
 :mortar_board: I'm currently a student at Sheridan College.  
-🌍 Website: https://couchris.ca/
+🌍 Website: https://couchris.ca/  
 🌱 Learning all about full-stack development  
 📫 Reach me: https://www.instagram.com/chriscoutoo/  , https://www.linkedin.com/in/christopher-nogueira-couto/  
 ⚡️ Fun fact: I'm a car enthusiast and a big Marvel fan
