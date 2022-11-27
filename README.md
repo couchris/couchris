@@ -6,5 +6,5 @@
 :mortar_board: I'm currently a student at Sheridan College.  
 🌍 Website: https://couchris.ca/  
 🌱 Learning all about full-stack development  
-📫 Reach me: https://www.instagram.com/chriscoutoo/  , https://www.linkedin.com/in/christopher-nogueira-couto/  
+📫 Reach me: https://www.instagram.com/chriscoutoo/ , https://www.linkedin.com/in/christopher--couto/
 
