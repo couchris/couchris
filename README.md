@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a student and aspiring Software Engineer in Ontario, Canada.
+### I'm a student and Full Stack Developer in Ontario, Canada.
 **NOW**  
 ✨ Currently Learning Vue, Node.JS, Express   
 **BIO**  
